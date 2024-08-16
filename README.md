@@ -1,0 +1,2 @@
+# Diabetes-Diagnosis-Prediction-Clustering-Course-Project
+•  AppliedPrincipal Component Analysis&amp;Factor Analysisfor dimensionality reduction, enhancing the efficiency•  Examined clustering techniques:Hierarchical(single, complete &amp; linkage) &amp;Non-Hierarchical(k-means) methods•  ConductedCanonical CorrelationAnalysis to explore relationships between internal &amp; external factor variable sets
